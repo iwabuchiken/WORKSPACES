@@ -52,10 +52,3 @@ TEMP
 TEMP/*
 test
 test/*
-*.obj
-*.tds
-*.exe
-*.class
-*.pyc
-*.pyd
-*.etc
